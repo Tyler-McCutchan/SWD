@@ -6,4 +6,4 @@
 *This is italic text*
 
 
-** *Italic in bold * **
+**_*Italic in bold*_**
